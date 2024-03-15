@@ -1,0 +1,6 @@
+names:
+- cabbage
+- haft-cabbage
+nc: 2
+train: C:/Users/BSJ/PycharmProjects/pythonProject1/yolov8/cabbage/cabbage.v1i.yolov8/train/
+val: C:/Users/BSJ/PycharmProjects/pythonProject1/yolov8/cabbage/cabbage.v1i.yolov8/valid/
